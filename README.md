@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JONAS-ROBERTO
 - 👀 I’m interested in PYTHON, HTML, CSS, JAVASCRIPT.
-- 🌱 I’m currently learning HTML, CSS.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Remote Sensing.
 
 <!---
